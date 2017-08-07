@@ -1,0 +1,19 @@
+PODS:
+  - IGListKit (3.0.0):
+    - IGListKit/Default (= 3.0.0)
+  - IGListKit/Default (3.0.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (3.0.0)
+  - Kingfisher (3.10.3)
+
+DEPENDENCIES:
+  - IGListKit (~> 3.0)
+  - Kingfisher (~> 3.0)
+
+SPEC CHECKSUMS:
+  IGListKit: 9eab6856a15fa25ad72018ff9d9eb2178c240fff
+  Kingfisher: a0ac82dc5bcf0388dd74b294cf2cc13730c63436
+
+PODFILE CHECKSUM: d2a8e0885b95066d7002f8d085e855abbe149a1d
+
+COCOAPODS: 1.1.1
